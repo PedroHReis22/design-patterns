@@ -1,5 +1,9 @@
 package curso.factory;
 
+import curso.factory.bancos.Banco;
+import curso.factory.bancos.BancoMySql;
+import curso.factory.bancos.BancoOracle;
+
 public class BancoFactory {
 	
 	public static final int ORACLE = 0;

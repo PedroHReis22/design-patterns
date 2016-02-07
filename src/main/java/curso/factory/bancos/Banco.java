@@ -1,4 +1,4 @@
-package curso.factory;
+package curso.factory.bancos;
 
 import java.util.List;
 

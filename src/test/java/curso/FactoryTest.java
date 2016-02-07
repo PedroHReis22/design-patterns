@@ -4,12 +4,12 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import curso.factory.Banco;
 import curso.factory.BancoFactory;
-import curso.factory.BancoMySql;
-import curso.factory.BancoOracle;
+import curso.factory.bancos.Banco;
+import curso.factory.bancos.BancoMySql;
+import curso.factory.bancos.BancoOracle;
 
-public class BancoFactoryTest {
+public class FactoryTest {
 	
 	@Test
 	public void testingGetBancoOracle() {
