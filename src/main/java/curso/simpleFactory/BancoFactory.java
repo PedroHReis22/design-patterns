@@ -1,8 +1,8 @@
-package curso.factory;
+package curso.simpleFactory;
 
-import curso.factory.bancos.Banco;
-import curso.factory.bancos.BancoMySql;
-import curso.factory.bancos.BancoOracle;
+import curso.simpleFactory.bancos.Banco;
+import curso.simpleFactory.bancos.BancoMySql;
+import curso.simpleFactory.bancos.BancoOracle;
 
 public class BancoFactory {
 	
