@@ -4,15 +4,15 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import abstractFactory.factories.AbstractFactory;
-import abstractFactory.factories.MSFactory;
-import abstractFactory.factories.MacFactory;
-import abstractFactory.widgets.Botao;
-import abstractFactory.widgets.Janela;
-import abstractFactory.widgets.mac.MacBotao;
-import abstractFactory.widgets.mac.MacJanela;
-import abstractFactory.widgets.windows.MSBotao;
-import abstractFactory.widgets.windows.MSJanela;
+import curso.abstractFactory.factories.AbstractFactory;
+import curso.abstractFactory.factories.MSFactory;
+import curso.abstractFactory.factories.MacFactory;
+import curso.abstractFactory.widgets.Botao;
+import curso.abstractFactory.widgets.Janela;
+import curso.abstractFactory.widgets.mac.MacBotao;
+import curso.abstractFactory.widgets.mac.MacJanela;
+import curso.abstractFactory.widgets.windows.MSBotao;
+import curso.abstractFactory.widgets.windows.MSJanela;
 
 public class AbstractFactoryMethodTest {
 	
