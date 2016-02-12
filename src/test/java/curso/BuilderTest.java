@@ -4,10 +4,10 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import curso.builder.CarroBuilder;
-import curso.builder.GeradorVeiculos;
-import curso.builder.MotoBuilder;
-import curso.builder.VeiculoBuilder;
+import curso.builder.builders.CarroBuilder;
+import curso.builder.builders.GeradorVeiculos;
+import curso.builder.builders.MotoBuilder;
+import curso.builder.builders.VeiculoBuilder;
 import curso.builder.veiculos.Carro;
 import curso.builder.veiculos.Moto;
 import curso.builder.veiculos.Veiculo;

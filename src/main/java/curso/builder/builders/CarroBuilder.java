@@ -1,33 +1,33 @@
-package curso.builder;
+package curso.builder.builders;
 
-import curso.builder.veiculos.Moto;
+import curso.builder.veiculos.Carro;
 import curso.builder.veiculos.Veiculo;
 
-public class MotoBuilder implements VeiculoBuilder {
-
+public class CarroBuilder implements VeiculoBuilder {
+	
 	@Override
 	public void builderEstrutura() {
-		//estrutura moto
+		//estrutura carro
 	}
 
 	@Override
 	public void builderMotor() {
-		//motor moto
+		//carror carro
 	}
 
 	@Override
 	public void builderRodas() {
-		//rodas moto
+		//rodas carro
 	}
 
 	@Override
 	public void bulderPortas() {
-		//portas moto
+		//portas carro
 	}
 
 	@Override
 	public Veiculo getVeiculo() {
-		return new Moto();
+		return new Carro();
 	}
 
 }

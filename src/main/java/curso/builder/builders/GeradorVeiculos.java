@@ -1,4 +1,4 @@
-package curso.builder;
+package curso.builder.builders;
 
 import curso.builder.veiculos.Veiculo;
 
