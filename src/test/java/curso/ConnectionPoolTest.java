@@ -5,7 +5,7 @@ import java.sql.Connection;
 import org.junit.Assert;
 import org.junit.Test;
 
-import curso.multiton.objectPool.ConnectionPool;
+import curso.objectPool.ConnectionPool;
 
 public class ConnectionPoolTest {
 	

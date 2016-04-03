@@ -8,4 +8,4 @@
   - [Prototype] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/prototype)
   - [Singleton] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/singleton)
   - [Multiton] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/multiton)
-  - Object Pool (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/objectPool)
+  - [Object Pool] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/objectPool)
