@@ -7,14 +7,14 @@ import org.junit.Test;
 
 import curso.creational.objectPool.ConnectionPool;
 
-public class ConnectionPoolTest {
+public class ObjectPoolTest {
 	
 	@Test
 	public void testingSameConnection() {
 		
 		ConnectionPool connectionPool = 
 				new ConnectionPool("com.mysql.jdbc.Driver", 
-						"jdbc:mysql://localhost:3306", "root", "pedro2201");
+						"jdbc:mysql://localhost:3306", "user", "senha");
 		
 		Connection connection1 = connectionPool.acquire();
 		//usa conexão
