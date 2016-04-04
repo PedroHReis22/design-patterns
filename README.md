@@ -13,3 +13,4 @@
   - [Adapter] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/structural/adapter)
   - [Bridge] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/structural/bridge)
   - [Composite] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/structural/composite)
+  - [Decorator] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/structural/decorator)
