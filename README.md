@@ -15,4 +15,5 @@
   - [Composite] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/structural/composite)
   - [Decorator] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/structural/decorator)
   - [Facade] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/structural/facade)
-  - [Flyweight] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/structural/Flyweight)
+  - [Flyweight] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/structural/flyweight)
+  - [Proxy] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/structural/proxy)
