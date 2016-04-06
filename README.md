@@ -18,3 +18,6 @@
   - [Flyweight] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/structural/flyweight)
   - [Proxy] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/structural/proxy)
   - [MVC] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/structural/mvc)
+- Padrões Comportamentais:
+  - [Chain Of Responsability] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/behavioral.chainOfResponsability)
+
