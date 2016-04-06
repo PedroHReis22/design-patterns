@@ -19,5 +19,6 @@
   - [Proxy] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/structural/proxy)
   - [MVC] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/structural/mvc)
 - Padrões Comportamentais:
-  - [Chain Of Responsability] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/behavioral.chainOfResponsability)
+  - [Chain Of Responsability] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/behavioral/chainOfResponsability)
+  - [Command] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/behavioral/command)
 
