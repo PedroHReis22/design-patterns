@@ -1,4 +1,4 @@
-package structural;
+package curso.structural;
 
 import org.junit.Test;
 

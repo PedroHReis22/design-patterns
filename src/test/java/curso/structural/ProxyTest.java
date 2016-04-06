@@ -1,4 +1,4 @@
-package structural;
+package curso.structural;
 
 import curso.structural.proxy.DefaultProvider;
 import curso.structural.proxy.Provider;
