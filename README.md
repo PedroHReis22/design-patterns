@@ -29,4 +29,5 @@
   - [State] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/behavioral/state)
   - [Strategy] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/behavioral/strategy)
   - [Template Method] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/behavioral/templateMethod)
+  - [Visitor] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/behavioral/visitor)
 
