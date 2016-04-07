@@ -23,4 +23,5 @@
   - [Command] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/behavioral/command)
   - [Interpreter] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/behavioral/interpreter)
   - [Iterator] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/behavioral/iterator)
+  - [Mediator] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/behavioral/mediator)
 
