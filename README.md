@@ -26,4 +26,5 @@
   - [Mediator] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/behavioral/mediator)
   - [Memento] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/behavioral/memento)
   - [Observer] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/behavioral/observer)
+  - [State] (https://github.com/PedroHReis22/design-patterns/tree/master/src/main/java/curso/behavioral/state)
 
